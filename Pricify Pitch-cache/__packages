@@ -1,0 +1,9 @@
+base
+knitr
+shiny
+MASS
+lattice
+ggplot2
+caret
+dplyr
+bindrcpp
