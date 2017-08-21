@@ -2,7 +2,7 @@
 
 This shiny app is the final project for the Developing Data Products Coursera Course which is part of the Johns Hopkins University Data Science Specialization. 
 
-**FOR REVIEWERS: The `server.R` and `ui.R` files are present inside the `Pricify` Folder and Root Folder.**
+**FOR REVIEWERS: The `server.R` and `ui.R` files are present inside the `Pricify` Folder and Root Folder. Please find the pitch presentation for this app at [http://rpubs.com/rush/pricifypitch](http://rpubs.com/rush/pricifypitch).**
 
 ## Introduction
 
